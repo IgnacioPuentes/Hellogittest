@@ -25,3 +25,8 @@ Underline 2
 1. Esto es un tiem
 2. Esto es un tiem
 3. Esto es un tiem
+
+# Links
+<a href="www.google.com"> Esto es un link html</a>
+- [Esto es un link en markdown](www.google.com)
+- [Esto es un link en markdown](index.html)
