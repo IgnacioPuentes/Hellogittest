@@ -60,3 +60,17 @@ Esto es un texto referente a una cita
 sigue siendo la cita
 
 Esto ya es otro texto
+
+# Lineas divisorias 
+Esto es un texto
+
+---
+Esto es otro texto
+
+***
+
+
+# Saltos de linea
+Esto es nuestro primer parrafo
+
+Esto es nuestro segundo parrafo
