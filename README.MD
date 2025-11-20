@@ -30,3 +30,6 @@ Underline 2
 <a href="www.google.com"> Esto es un link html</a>
 - [Esto es un link en markdown](www.google.com)
 - [Esto es un link en markdown](index.html)
+
+# Imagenes
+![Logo github](https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png)
