@@ -47,3 +47,9 @@ Codigo en python
 def saludo:
   return "Hola"
 ```
+
+# Tablas
+| Nombre | apellido | documento |
+|--------|----------|-----------|
+|Maxi|burgos|1351
+|Jose|zuñiga|32165
