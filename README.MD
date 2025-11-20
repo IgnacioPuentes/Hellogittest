@@ -32,4 +32,18 @@ Underline 2
 - [Esto es un link en markdown](index.html)
 
 # Imagenes
-![Logo github](https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png)
+![Logo github](https://images.freeimages.com/fic/images/icons/2779/simple_icons/4096/github.png)
+
+# Code Snipets
+Codigo en JSON
+``` JSON
+function saludo() {
+  return "Hola";
+}
+```
+
+Codigo en python
+``` JSON
+def saludo:
+  return "Hola"
+```
