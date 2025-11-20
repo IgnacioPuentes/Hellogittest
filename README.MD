@@ -53,3 +53,10 @@ def saludo:
 |--------|----------|-----------|
 |Maxi|burgos|1351
 |Jose|zuñiga|32165
+
+# Citas (quotes)
+Esto es un texto referente a una cita
+> Aqui va una cita.
+sigue siendo la cita
+
+Esto ya es otro texto
